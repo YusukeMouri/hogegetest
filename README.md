@@ -4,9 +4,9 @@
 ほげほげほげほげほげほげほげほげ
 ほげほげほげほげほげほげほげほげ
 
-*hogehoge
-*hoge
-*hogegegege
+* hogehoge
+* hoge
+* hogegegege
 
 ---
 > ほげほげほげほげほげほげほげほげ
